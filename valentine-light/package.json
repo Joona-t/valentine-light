@@ -1,0 +1,21 @@
+{
+  "name": "valentine-light",
+  "displayName": "valentine-light",
+  "description": "pink aesthetics",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Valentine Light",
+        "uiTheme": "hc-light",
+        "path": "./themes/Valentine Light-color-theme.json"
+      }
+    ]
+  }
+}
