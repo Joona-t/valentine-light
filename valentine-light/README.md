@@ -1,12 +1,13 @@
 # valentine-light README
 
-## Working with Markdown
+A high-contrast pastel blush theme for VS Code.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Install
+Search "Valentine Light" in Extensions.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Screenshot
+(Add later)
+
 
 ## For more information
 
