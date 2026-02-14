@@ -1,14 +1,27 @@
 {
   "name": "valentine-light",
-  "displayName": "valentine-light",
-  "description": "pink aesthetics",
-  "version": "0.0.1",
+  "displayName": "Valentine Light",
+  "publisher": "Joona-t",
+  "description": "A high-contrast pastel blush theme for Visual Studio Code.",
+  "version": "0.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Joona-t/valentine-light.git"
+  },
   "engines": {
-    "vscode": "^1.109.0"
+    "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "pink",
+    "light",
+    "high-contrast",
+    "pastel"
+  ],
+  "icon": "images/logo.png",
   "contributes": {
     "themes": [
       {

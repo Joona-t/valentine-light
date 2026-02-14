@@ -1,17 +1,39 @@
-# valentine-light README
+# Valentine Light 🌸
 
-A high-contrast pastel blush theme for VS Code.
+A high-contrast pastel blush theme for Visual Studio Code.
 
-## Install
-Search "Valentine Light" in Extensions.
+Designed for clarity, softness, and long coding sessions without eye fatigue.
 
-## Screenshot
-(Add later)
+---
 
+## ✨ Features
 
-## For more information
+- Light high-contrast UI
+- Soft blush background
+- Clear keyword separation
+- Calm but readable comment styling
+- Balanced saturation for long sessions
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+---
 
-**Enjoy!**
+## 📸 Screenshots
+
+### TypeScript Showcase
+![Showcase 1](assets/showcase1.png)
+
+### Python Showcase
+![Showcase 2](assets/showcase2.png)
+
+---
+
+## 🚀 Installation
+
+1. Open **Extensions** in VS Code  
+2. Search for **Valentine Light**  
+3. Click **Install**  
+4. Open Command Palette → `Preferences: Color Theme`  
+5. Select **Valentine Light**
+
+---
+
+Built with care by Joona-t.
